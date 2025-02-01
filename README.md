@@ -31,7 +31,7 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory and add the following:
 ```ini
 TELEGRAM_TOKEN=your_telegram_bot_token
-GROQ_API_KEY=your_groq_api_key
+GROQ=your_groq_api_key
 ```
 
 ---
